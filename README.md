@@ -5,5 +5,6 @@ log1 is the **L**acking **O**fficial **G**enomes **O**f**N**o**E**xplanation pro
 macro log1(x)
   eval(x)
 end
+
 @log1 rand(1)
 ```

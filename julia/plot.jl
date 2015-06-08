@@ -1,5 +1,3 @@
-push!(LOAD_PATH, "C:\\Users\\Ben\\Documents\\Programs\\log1\\julia")
-
 using PyPlot
 using Sum
 
